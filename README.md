@@ -1,6 +1,6 @@
 # Sales Data Analytics Dashboard
 
-Live Demo: https://YOUR-STREAMLIT-LINK.streamlit.app
+Live Demo: https://salesdataanalysis-iynoqr5hxhpyeftktu6ppb.streamlit.app/
 
 An interactive sales analytics dashboard built using Python and Streamlit.
 
